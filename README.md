@@ -1,25 +1,32 @@
- <a href="https://github.com/udimile">
- 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-</div>
-  
-  ##
- 
-<div> 
- <a href="https://discord.gg/channels/udimile" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:udimile@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/udimile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+# Olá, eu sou a Udimile 👋
+Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Santander Coders 2022 com Kotlin. Atualmente, estou estudando back-end pela Cubos Academy no programa Ifood 1000.
 
-  ##
+![My Skills](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents&theme=dark)
+<br>
+![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,postgres,mysql,express,regex&theme=dark)
+<br><br>
+Sou apaixonada por tecnologia e conhecimento e busco oportunidades no mercado de trabalho como desenvolvedora. Estou sempre disposta a aprender novas ferramentas e aprimorar as minhas habilidades.
+<br><br>
+![My Skills](https://skills.thijs.gg/icons?i=postman,androidstudio,idea,vscode,insomnia,git&theme=dark)
+<br><br>
+![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
+
+
+## Projetos destacados
+[![Fithub]] [![Labenu]] [![Santander Coders]] [![Cubos Academy]]
+
+## Contribuições
+![GitHub contributions]
+
+## Contato
+Você pode me encontrar nas seguintes redes sociais:
+
+[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/) [![Twitter](https://skills.thijs.gg/icons?i=twitter&theme=dark)](https://twitter.com/udimile) [![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
+
+Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.com<a/>.
+
+##
 
 <div>
  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile">
