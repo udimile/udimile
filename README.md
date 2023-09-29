@@ -8,7 +8,7 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 Sou apaixonada por tecnologia e conhecimento e busco oportunidades no mercado de trabalho como desenvolvedora. Estou sempre disposta a aprender novas ferramentas e aprimorar as minhas habilidades.
 <br><br>
 ![My Skills](https://skills.thijs.gg/icons?i=postman,androidstudio,idea,vscode,insomnia,git&theme=dark)
-<br><br>
+##
 ![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
 ![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
 
