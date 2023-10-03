@@ -9,15 +9,13 @@ Sou apaixonada por tecnologia e conhecimento e busco oportunidades no mercado de
 <br><br>
 ![My Skills](https://skills.thijs.gg/icons?i=postman,androidstudio,idea,vscode,insomnia,git&theme=dark)
 ##
-![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&include_all_commits=true&show_icons=true&theme=dark)
 
 
 ## Projetos destacados
-[![Fithub]] [![Labenu]] [![Santander Coders]] [![Cubos Academy]]
+...EM CONSTRUÇÃO
 
 ## Contribuições
-![GitHub contributions]
+...EM CONSTRUÇÃO
 
 ## Contato
 Você pode me encontrar nas seguintes redes sociais:
@@ -28,9 +26,12 @@ Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.c
 
 ##
 
+![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&include_all_commits=true&show_icons=true&theme=dark)
+
 <div>
  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile">
-  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile" width="450" height="195" alt="Progresso 100 dias de codigo">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile&theme=dark" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
 </div>
 
