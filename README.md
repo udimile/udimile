@@ -10,7 +10,7 @@ Sou apaixonada por tecnologia e conhecimento e busco oportunidades no mercado de
 ![My Skills](https://skills.thijs.gg/icons?i=postman,androidstudio,idea,vscode,insomnia,git&theme=dark)
 ##
 ![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&include_all_commits=true&show_icons=true&theme=dark)
 
 
 ## Projetos destacados
