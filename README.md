@@ -9,7 +9,7 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 
 ## 📈 Stats:
 
-![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&count_private=true&theme=tokyonight&include_all_commits=true)
+![GitHub stats](https://github-readme-stats-udimile.vercel.app/api?username=udimile&count_private=true&theme=tokyonight&include_all_commits=true&layout=compact)
  <a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile">
   <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=udimile&show_icons=true" width="450" height="195" alt="Progresso 100 dias de codigo">
 </a>
@@ -22,3 +22,9 @@ Você pode me encontrar nas seguintes redes sociais:
 [![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
 
 Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.com<a/>.
+
+<div align="center">
+ Feito com :heart: e JavaScript.
+ <br>
+ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>
+</div>
