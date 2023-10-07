@@ -28,5 +28,5 @@ Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.c
 <div align="center">
  Feito com :heart: e JavaScript.
  <br>
- Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs</a>
+ Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
 </div>
