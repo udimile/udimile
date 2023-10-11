@@ -1,8 +1,18 @@
+<div align="center">
+ 
 # Olá, sou a Udimile 👩🏽‍🦱
+
 Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Santander Coders 2022 com Kotlin. Atualmente, estou estudando back-end pela Cubos Academy no programa Ifood 1000. Sou apaixonada por tecnologia e conhecimento e busco oportunidades no mercado de trabalho como desenvolvedora. Estou sempre disposta a aprender novas ferramentas e aprimorar as minhas habilidades.
 <br>
 
 ## ⚡ Skills:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents,java,kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)" />
+  </a>
+</p>
+
 ![My Skills](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents,java,kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)
 <br><br>
 ![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
@@ -25,7 +35,7 @@ Você pode me encontrar nas seguintes redes sociais:
 
 Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.com<a/>.
 
-<div align="center">
+
  Feito com :heart: e JavaScript.
  <br>
  Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://github.com/tandpfun/skill-icons">Thijs.</a>
