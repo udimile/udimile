@@ -7,12 +7,6 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 
 ## ⚡ Skills:
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents,java,kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)" />
-  </a>
-</p>
-
 ![My Skills](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents,java,kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)
 <br><br>
 ![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
