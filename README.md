@@ -21,7 +21,6 @@ Você pode me encontrar nas seguintes redes sociais:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/)
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/udimile) 
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
 [![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/765360474450821181)
 [![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/udimile)
 
