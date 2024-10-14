@@ -7,8 +7,8 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 
 ## ⚡ Skills:
 
-![My Skills](https://skills.thijs.gg/icons?i=css,html,js,ts,react,materialui,styledcomponents,java&theme=dark)
-![My Skills](https://skills.thijs.gg/icons?i=kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=css,html,js,ts,react,materialui,styledcomponents,java&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=kotlin,nodejs,postgres,mysql,express,regex,postman,androidstudio,idea,vscode,git,bash&theme=dark)
 <br><br>
 ![Top Langs](https://github-readme-stats-udimile.vercel.app/api/top-langs/?username=udimile&layout=compact&langs_count=6&count_private=true&theme=tokyonight)
 
@@ -20,10 +20,10 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 Você pode me encontrar nas seguintes redes sociais:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/)
-[![Twitter](https://skills.thijs.gg/icons?i=twitter&theme=dark)](https://twitter.com/udimile) 
-[![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
-[![Discord](https://skills.thijs.gg/icons?i=discord&theme=dark)](https://discord.com/users/765360474450821181)
-[![Gitlab](https://skills.thijs.gg/icons?i=gitlab&theme=dark)](https://gitlab.com/udimile)
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/udimile) 
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
+[![Discord](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/765360474450821181)
+[![Gitlab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://gitlab.com/udimile)
 
 Ou me enviar um email para <a href = "mailto:udimile@gmail.com" >udimile@gmail.com<a/>.
 
