@@ -19,7 +19,7 @@ Sou desenvolvedora full-stack e mobile, formada pela Labenu e pelo Programa Sant
 ## 📫 Contato
 Você pode me encontrar nas seguintes redes sociais:
 
-[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/udimile/)
 [![Twitter](https://skills.thijs.gg/icons?i=twitter&theme=dark)](https://twitter.com/udimile) 
 [![Instagram](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://instagram.com/udimile_)
 [![Discord](https://skills.thijs.gg/icons?i=discord&theme=dark)](https://discord.com/users/765360474450821181)
